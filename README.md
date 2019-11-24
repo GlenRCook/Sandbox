@@ -1,5 +1,5 @@
 # research
-Sandbox for research Oh the joy.
+Sandbox for research
 New SSL section adds should be outlined in the header.
 
 Sandbox for research
