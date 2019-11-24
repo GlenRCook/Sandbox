@@ -1,2 +1,10 @@
 # research
-Sandbox for research Oh the joy.
+Sandbox for research
+
+Installation:
+
+
+
+
+Secured SSL:
+
